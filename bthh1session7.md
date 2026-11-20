@@ -64,7 +64,7 @@ class LinkedList:
 1.Bảng giải thích Feynman 
 
 Hãy tưởng tượng bạn tham gia trò chơi truyền tin nhắn bí mật trong lớp học: mỗi bạn cầm một mẩu giấy ghi một chữ và chỉ biết chuyền giấy cho đúng người đứng ngay sau mình. Không ai có bảng danh sách toàn lớp cả — muốn gửi tin tới bạn cuối hàng, bạn phải đi lần lượt từ bạn đầu tiên, hỏi từng người "bạn đứng sau cậu là ai?" cho tới khi chạm tới cuối hàng.
-2.Bàng điểm Rubric
+
  
  
 #### 1. Công thức quy đổi điểm
